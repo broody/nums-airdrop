@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules/
+
+# npm package files
+package-lock.json
+npm-debug.log
+
+# Generated files
+*.csv
+invoke.txt
+
+# Environment variables
+.env
